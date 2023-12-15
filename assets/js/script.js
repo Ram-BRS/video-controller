@@ -1,9 +1,5 @@
-/** 
-Author: Build Rise Shine with Nyros (BRS) 
-Created: 2023 
-Library  Component: Script file
-Description: video controllers logic
-(c) Copyright by BRS with Nyros. 
+/**  
+Created: 15.12.23
 **/
 
 /* Get Our Elements */
